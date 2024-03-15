@@ -12,6 +12,13 @@
 
  *Figma: <a href="https://www.figma.com/file/AMKAH3vBXoID8wgLNmqfKe/Password-App?type=design&node-id=0-1&mode=design&t=fSUT3ixDFAXtpNmr-0">Layout</a>
 
+ <h1>Video do app:<h1/>
 
- *Link do App: <a href="https://satilam.github.io/gerador/">app online</a>
+https://github.com/SATILAM/gerador/assets/101275634/c779aec0-cae5-4c12-9e0c-3c3cb3af1d43
+
+
+ 
+
+
+
 
