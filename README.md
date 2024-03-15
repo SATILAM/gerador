@@ -8,4 +8,7 @@
  <h4>Foram utilizam no desenvolvimento e criação: <a href="https://reactnative.dev/docs/getting-started">Documentação React Native</a> e 
   <a href="https://expo.dev/">Documentação Expo Go</a>.<h4/>
 
- 
+ Creditos: <a href="https://www.youtube.com/watch?v=VDgihqrZUQg">Sujeito Programador.</a>
+
+ Figma: <a href="https://www.figma.com/file/AMKAH3vBXoID8wgLNmqfKe/Password-App?type=design&node-id=0-1&mode=design&t=fSUT3ixDFAXtpNmr-0">Layout</a>
+
